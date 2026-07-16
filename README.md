@@ -40,7 +40,6 @@ Requires Python ≥ 3.9.
 
 *Runtimes on a standard Colab CPU instance. Local machines may differ.
 
-`Figure4.png` (the CRIM-S framework diagram) and `graphical_abstract.png` are included for completeness but are not simulation outputs.
 
 ## Reproducibility
 
