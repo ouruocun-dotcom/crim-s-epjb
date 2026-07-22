@@ -2,7 +2,7 @@
 
 Reproducible code for all numerical figures in:
 
-> **Exact stability threshold and steady-state diversity for stochastic consensus dynamics on the probability simplex**
+> **Geometric constraints reverse the stabilizing role of algebraic connectivity in stochastic network dynamics**
 >
 
 ## Quickest way to reproduce (Google Colab)
